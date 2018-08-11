@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 branchtest content: DID I ACTUALLY HAVE GRAMMAR erased all that stuff
 
 having added stuff for branchtest push test
+=======
+stuff
+stuff
+stuff
+
+fucked with 
+
+fucked with again
+
+fucked with FOR THE LAST TIME
+>>>>>>> 2656b7bae84ce7abd9f1cc82808bcd9ff92962c3
