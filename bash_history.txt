@@ -1,0 +1,578 @@
+    1  clear
+    2  ls
+    3  rm Anaconda3-4.2.0-Linux-x86_64.sh 
+    4  ls
+    5  clear
+    6  git
+    7  clear
+    8  exit
+    9  clear
+   10  gem install bundler jekyll
+   11  sudo apt install ruby
+   12  clear
+   13  ruby -v
+   14  sudo apt-get install ruby ruby-dev build-essential
+   15  echo '# Install Ruby Gems to ~/gems' >> ~./bashrc
+   16  cd
+   17  ls
+   18  ls -a
+   19  nano .bashrc
+   20  echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+   21  echo 'export GEM_HOME=$HOME/gems' >> ~/.bashrc
+   22  echo 'export PATH=$HOME/gems/bin:$PATH' >> ~/.bashrc
+   23  source ~/.bashrc
+   24  cat ~/.bashrc
+   25  clear
+   26  ls -a
+   27  gem install jekyll bundler
+   28  jekyll serve
+   29  bundle exec jekyll servev
+   30  bundle exec jekyll serve
+   31  ls
+   32  cd gems
+   33  ls
+   34  cd /man/c/
+   35  cd /man
+   36  jekyll serve
+   37  bundle exec jekyll serve
+   38  bundle install
+   39  jekyll serve
+   40  bundle exec jekyll serve
+   41  jekyll serve
+   42  bundle exec jekyll serve
+   43  clear
+   44  test
+   45  t
+   46  clear
+   47  exit
+   48  cls
+   49  quit
+   50  exit
+   51  git --version
+   52  bundle exec jekyll serve --drafts
+   53  pip
+   54  sudo apt install python-pip
+   55  ls
+   56  pwd
+   57  clear
+   58  python --version
+   59  python3 --version
+   60  sudo apt update
+   61  lsb-release -a
+   62  lsb_release -a
+   63  python --version
+   64  python3 --version
+   65  ls
+   66  pwd
+   67  "C:/Users/Alex Loftus/AppData/Local/Programs/Python/Python37/python.exe"
+   68  def more_complicated(a, b):
+   69  def print_hello():
+   70  clear
+   71  def print_hello():
+   72  print('test')
+   73  "C:/Users/Alex Loftus/AppData/Local/Programs/Python/Python37/python.exe"
+   74  def print_hello():
+   75  clear
+   76  pyton
+   77  python3
+   78  clear
+   79  ipython
+   80  exit()
+   81  exit
+   82  clear
+   83  nano post.html
+   84  git branch
+   85  git checkout auto-comments
+   86  nano post.html
+   87  git status
+   88  git diff ../_posts/2018-09-25-linear-dimensionality-reduction.md
+   89  clear
+   90  git status
+   91  cd ..
+   92  clear
+   93  git status
+   94  git diff staticman.yml
+   95  git pull
+   96  git branch
+   97  git push -u origin auto-comments
+   98  git branch -a
+   99  git add .
+  100  git commit -m "Switched comment system to disqus"
+  101  git config --global user.email "alexloftus2004@gmail.com"
+  102  git config --global user.name "Alex Loftus"
+  103  git commit -m "Switched comment system to disqus"
+  104  git status
+  105  clear
+  106  git show HEAD
+  107  clear
+  108  git push
+  109  git status
+  110  bundle exec jekyll serve
+  111  jekyll bundle exec build
+  112  bundle exec jekyll build
+  113  bundle exec jekyll serve
+  114  clear
+  115  ls
+  116  rm -r _data
+  117  git add .
+  118  jekyll build
+  119  bundle exec jekyll build
+  120  bundle exec jekyll build --watch
+  121  jekyll serve
+  122  bundle exec jekyll serve
+  123  touch .gitattributes
+  124  git status
+  125  git add .
+  126  git status
+  127  git commit -m "Added .gitattributes file to fix line endings issue"
+  128  git status
+  129  clear
+  130  git push
+  131  git status
+  132  git checkout master
+  133  file about.md
+  134  git branch
+  135  git checkout auto-comments
+  136  git status
+  137  git add .
+  138  git status
+  139  git commit -m "added gitattributes file with text"
+  140  git status
+  141  git push
+  142  git checkout master
+  143  git pull
+  144  git checkout line-endings
+  145  git branch
+  146  git checkout auto-comments 
+  147  git status
+  148  git pull
+  149  git status
+  150  git checkout master
+  151  git diff
+  152  git log
+  153  git checkout auto-comments 
+  154  git merge master
+  155  git branch
+  156  clear
+  157  git status
+  158  git add .
+  159  git commit -m "bring in connectome-coding change"
+  160  git push
+  161  git status
+  162  clear
+  163  git branch
+  164  git diff auto-comments master
+  165  clear
+  166  git branch
+  167  git diff master auto-comments 
+  168  clear
+  169  git status
+  170  git add .
+  171  git status
+  172  gm .git/index
+  173  rm .git/index
+  174  git reset
+  175  git status
+  176  rm .git/index
+  177  git reset
+  178  git status
+  179  git rm .git/index
+  180  git reset
+  181  git rm .git/index
+  182  git status
+  183  git add .
+  184  git status
+  185  git rm .git/index
+  186  git add .
+  187  git status
+  188  clear
+  189  git status
+  190  git pull
+  191  git checkout master
+  192  git config --global core.autocrlf true
+  193  git status
+  194  git branch
+  195  git checkout auto-comments 
+  196  git status
+  197  make
+  198  pdflatex --version
+  199  exit
+  200  clear
+  201  cd Dropbox/NeuroData/josh-cv/
+  202  git clone https://github.com/jovo/cv.git
+  203  cd ../jovo-cv
+  204  git clone https://github.com/jovo/cv.git
+  205  git status
+  206  ls
+  207  cd cv
+  208  git status
+  209  git checkout -b cv-branch
+  210  git status
+  211  git branch
+  212  git status
+  213  git add .
+  214  git status
+  215  clear
+  216  git branch
+  217  git remote -v
+  218  clear
+  219  git commit -m "Added new entries to preprints"
+  220  git config --global core.autocrlf true
+  221  quit() quit
+  222  quit
+  223  exit
+  224  git config --global core.autocrlf input
+  225  exit
+  226  cd ~/.gitconfig
+  227  cd ~
+  228  nano .gitconfig
+  229  quit
+  230  exit
+  231  python3
+  232  pip install numpy
+  233  import numpy as np
+  234  python
+  235  jupyter lab
+  236  exit()
+  237  clear
+  238  docker --version
+  239  sudo apt install docker.io
+  240  docker --version
+  241  docker run hello-world
+  242  docker info
+  243  docker run --help
+  244  dockerd
+  245  sudo dockerd
+  246  docker run hello-world
+  247  sudo docker run hello-world
+  248  exit
+  249  clear
+  250  node -v
+  251  clear
+  252  npm -v
+  253  whereis npm
+  254  where npm
+  255  which npm
+  256  whereis node
+  257  which node
+  258  node -v
+  259  npm -v
+  260  cd
+  261  cd /usr/local/lib
+  262  ls
+  263  cd ../include
+  264  ls
+  265  cd
+  266  ls
+  267  cd /usr/local/bin
+  268  ls
+  269  ls -a
+  270  node -v
+  271  nvm -v
+  272  brew uninstall node
+  273  nvm -v
+  274  nvm install
+  275  clear
+  276  sudo apt-get install nodejs
+  277  nvm
+  278  node -v
+  279  env VERSION=`python tools/getnodeversion.py` make install DESTDIR=`nvm_version_path v$VERSION` PREFIX=""
+  280  grow --version
+  281  curl https://install.grow.io | bash
+  282  quit
+  283  exit
+  284  grow --version
+  285  grow install
+  286  pip --version
+  287  clear
+  288  grow install
+  289  git config --global url."https://".insteadOf git://
+  290  grow install
+  291  clear
+  292  git clone https://github.com/neurodata/grow-ext-bibtex-print.git
+  293  grow install
+  294  grow --version
+  295  clear
+  296  git status
+  297  git add content/pubs/pubs.bib
+  298  docker --version
+  299  ls
+  300  cd ../..
+  301  docker --version
+  302  cd Users/Alex\ Loftus/Desktop/
+  303  mkdir docker-test
+  304  cd docker-test/
+  305  docker info
+  306  sudo docker info
+  307  cd ~/var/lib/docker
+  308  cd ~
+  309  ls
+  310  cd 
+  311  ls
+  312  cd /var
+  313  ls
+  314  cd lib
+  315  ls
+  316  cd docker/
+  317  ls
+  318  sudo ls
+  319  docker
+  320  docker info --help
+  321  sudo apt-get update
+  322  sudo apt-get remove docker docker-engine docker.io
+  323  ls
+  324  sudo ls
+  325  wsl --version
+  326  sudo apt-get update
+  327  sudo apt-get install \ 
+  328  sudo apt-get install \ apt-transport-https \ ca-certificates \ curl \ software-properties-common
+  329  sudo apt-get install     apt-transport-https     ca-certificates     curl     software-properties-common
+  330  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  331  sudo apt-key fingerprint 0EBFCD88
+  332  sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+  333     $(lsb_release -cs) \
+  334     stable"
+  335  sudo apt-get update
+  336  sudo apt-get install docker-ce
+  337  docker --version
+  338  sudo docker run hello-world
+  339  docker run --help
+  340  cd ../../mnt
+  341  cd ../../../mnt
+  342  cd c
+  343  cd Users/Alex\ Loftus/Desktop/
+  344  cd docker-test/
+  345  clear
+  346  ssh aloftus@awesomer.cs.jhu.edu
+  347  docker run hello-world
+  348  sudo docker run hello-world
+  349  dockerd
+  350  sudo dockerd
+  351  ssh aloftus@awesomer.cs.jhu.edu
+  352  docker --version
+  353  docker run --help
+  354  docker --version
+  355  docker ps
+  356  systemctl status docker
+  357  systemctl start docker
+  358  quit
+  359  quit()
+  360  exit()
+  361  exit
+  362  clear
+  363  jekyll --help
+  364  bundle exec jekyll serve
+  365  git status
+  366  git add .
+  367  git status
+  368  git commit -m "Changed commenting system"
+  369  git branch
+  370  git push -u auto-comments-new
+  371  git push -u origin auto-comments-new
+  372  git diff master auto-comments-new
+  373  cd Dropbox/NeuroData/
+  374  ls
+  375  cd playing-with-git/
+  376  clear
+  377  echo $PS1
+  378  cd ../..
+  379  echo $PS1
+  380  clear
+  381  echo "Hello"
+  382  nano ~.bashrc
+  383  cat ~.bashrc
+  384  nano ~/.bashrc
+  385  quit
+  386  quit()
+  387  nano ~/.bashrc
+  388  exit
+  389  nano ~/.bashrc
+  390  exit
+  391  quit
+  392  nano ~/.bashrc
+  393  nano ~./bashrc
+  394  nano ~/.bashrc
+  395  vim ~/.bashrc
+  396  cd ..
+  397  ls
+  398  cd ..
+  399  ls
+  400  source ~/.bashrc
+  401  cd ..
+  402  cd c
+  403  ls
+  404  cp ~/.bashrc ~/.bashrc.bak
+  405  cd
+  406  ls
+  407  cd ~/
+  408  ls
+  409  ls -a
+  410  cp /etc/skel/.bashrc ~/
+  411  source ~/.bashrc
+  412  ls
+  413  nano .bashrc.bak
+  414  nano .bashrc
+  415  nano .bashrc.bak
+  416  nano .bashrc
+  417  nano ~/.bashrc
+  418  nano ~/.bashrc
+  419  cd Dropbox/
+  420  cd NeuroData/
+  421  ls
+  422  grep ccc playing-with-git/
+  423  grep ccc /playing-with-git/
+  424  grep ccc /playing-with-git/*
+  425  cd playing-with-git/
+  426  ls
+  427  grep ranch ranchbranch.txt 
+  428  echo "ranchranch" >> ranchbranch.txt
+  429  grep ranch ranchbranch.txt 
+  430  git status
+  431  git show HEAD
+  432  git commit -m "just tha a"
+  433  git status
+  434  git checkout HEAD
+  435  git status
+  436  git checkout --hard HEAD
+  437  ls
+  438  pwd
+  439  cd Dropbox/NeuroData/
+  440  ls
+  441  nano ~/.bashrc
+  442  clear
+  443  pwd
+  444  nano ~/.bash_profile
+  445  env
+  446  clear
+  447  eng
+  448  env
+  449  env | grep PATH
+  450  clear
+  451  env | grep PATH
+  452  clear
+  453  ls
+  454  clear
+  455  pwd
+  456  cd Dropbox/NeuroData/
+  457  ls
+  458  cd playing-with-git/
+  459  ls
+  460  cat test.txt
+  461  cat test.txt | grep "fucked"
+  462  pwd
+  463  cd Dropbox/NeuroData/
+  464  ls
+  465  cd playing-with-git/
+  466  clear
+  467  man grep
+  468  man grep tail -5
+  469  man grep | tail-5
+  470  man grep | tail
+  471  man grep | tail(5)
+  472  man grep | (tail -20)
+  473  man grep | (head -20)
+  474  id loftusa
+  475  usermod -aG docker loftusa
+  476  sudo usermod -aG docker loftusa
+  477  id loftusa
+  478  docker info
+  479  id loftusa
+  480  clear
+  481  id loftusa
+  482  docker search mysql
+  483  sudo docker search mysql
+  484  sudo nohup docker daemon -H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock &
+  485  pwd
+  486  cd docker
+  487  ls
+  488  exit
+  489  pwd
+  490  cd docker
+  491  pwd
+  492  cd docker
+  493  pwd
+  494  clear
+  495  pwd
+  496  ls
+  497  ls -a
+  498  touch daemon.json
+  499  ls
+  500  nano daemon.json
+  501  docker info
+  502  exit
+  503  clear
+  504  docker info
+  505  su -l root
+  506  sudo docker run -d dockerswarm/swarm:master join --advertise=192.168.1.105:2375 consul://192.168.1.103:8500
+  507  docker run --help
+  508  cd /etc/docker
+  509  sudo cd /etc/docker
+  510  ls
+  511  clear
+  512  ls
+  513  pwd
+  514  cd ../../../
+  515  ls
+  516  cd ..
+  517  ls
+  518  pwd
+  519  pdw
+  520  pwd
+  521  cd /etc/docker
+  522  sudo cd etc/docker
+  523  cd etc
+  524  ls
+  525  cd docker
+  526  sudo cd docker
+  527  clear
+  528  dockerd
+  529  clear
+  530  sudo dockerd
+  531  cd ~/etc/docker
+  532  cd /etc
+  533  ls
+  534  clear
+  535  pwd
+  536  cd docker
+  537  sudo cd docker
+  538  sudo -i
+  539  pwd
+  540  cd docker
+  541  sudo -s
+  542  exit() pwd
+  543  pwd
+  544  clear
+  545  pwd
+  546  sudo -s
+  547  pwd
+  548  sudo -s
+  549  clear
+  550  ls
+  551  pwd
+  552  python2.7
+  553  clear
+  554  sudo apt-key fingerprint 0EBFCD88
+  555  sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+  556     $(lsb_release -cs) \
+  557     ${DOCKER_CHANNEL}"
+  558  sudo curl -L https://github.com/docker/compose/releases/download/${DOCKER_COMPOSE_VERSION}/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose && sudo chmod +x /usr/local/bin/docker-compose
+  559  nano ~/.bashrc
+  560  source ~/.bashrc
+  561  docker info
+  562  man less
+  563  man less | head
+  564  ls
+  565  clear
+  566  pwd
+  567  cd Dropbox/NeuroData/gi
+  568  cd Dropbox/NeuroData/
+  569  ls
+  570  pwd
+  571  cd playing-with-git/
+  572  clear
+  573  nano ~/.bash_profile
+  574  source ~/.bash_profile
+  575  hs
+  576  clear
+  577  ls
+  578  hs > "bash_history.txt"
